@@ -1,3 +1,5 @@
+![anonymous-hacker-data-breach-5k-3440x240-7](https://github.com/user-attachments/assets/4c79f362-cde4-4b03-a67f-ec4e355a2808)
+
 <h1 align="center">Hi 👋, I'm Harshit Shrivastav</h1>
 <h3 align="center">Ethical Hacker</h3>
 
