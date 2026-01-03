@@ -3,10 +3,9 @@
 <h1 align="center">Hi 👋, I'm Harshit Shrivastav</h1>
 <h3 align="center">Ethical Hacker</h3>
 
-<img align="right" width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/68eb0b71-fd2a-4ab2-85b7-1ed0a72c6e68" />
+<img align="right" width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/68eb0b71-fd2a-4ab2-85b7-1ed0a72c6e68" /></p>
 
 Contact me **harshitsrivastav2008@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-shrivastav-14790338b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-shrivastav-14790338b" height="30" width="40" /></a>
